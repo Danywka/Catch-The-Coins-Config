@@ -1,6 +1,13 @@
 {
 	"target_versions": "1.1 Beta 3",
-	"title": "Warning!!!!!!",
-	"message": "I eat my watermeeeeeeeeeeeeeeeeeeeeeeeeeeeeloooooooooooooooooooooooooooooooooooooooooooooon!!!!!!!!!!!!111!!!1!1!!",
-	"btn_cancel": "OK CHILL"
+	"title": "Update Available!",
+	"message": "Your version of Catch The Coins is outdated! Please update it by downloading the latest release from the website.",
+	"btn_cancel": {
+		"text": "Thanks, not now",
+		"link": ""
+	},
+	"btn_update": {
+		"text": "Get NEW version!",
+		"link": "https://danywka.itch.io/catch-the-coins"
+	}
 }
