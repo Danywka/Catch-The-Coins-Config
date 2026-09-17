@@ -4,7 +4,7 @@
 	"message": "Your version of Catch The Coins is outdated! Please update it by downloading the latest release from the website.",
 	"btn_cancel": {
 		"text": "Thanks, not now",
-		"link": ""
+		"link": "https://meow.com"
 	},
 	"btn_update": {
 		"text": "Get NEW version!",
