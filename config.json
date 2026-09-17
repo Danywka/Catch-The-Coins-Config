@@ -1,7 +1,7 @@
 {
-	"target_versions": "1.1 Beta 2",
-	"title": "Update Available!",
-	"message": "Your version of Catch The Coins is outdated! Please update it by downloading the latest release from the website.",
+	"target_versions": "1.1 Beta 3",
+	"title": "Хеллоу",
+	"message": "I eat my watermeloooooooooooooooooooooon",
 	"btn_cancel": {
 		"text": "Thanks, not now",
 		"link": ""
