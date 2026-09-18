@@ -1,5 +1,5 @@
 {
-	"target_versions": "1.1 Beta 4",
+	"target_versions": ["1.1 Beta 4"],
 	"title": "Update Available!",
 	"message": "Your version of Catch The Coins is outdated! Please update it by downloading the latest release from the website.",
 	"btn_cancel": {
